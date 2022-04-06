@@ -1,3 +1,4 @@
+
 body{
 	background-color:black
 }
@@ -44,6 +45,21 @@ h5{
 li{
 	color:burlywood;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+h1{
+	color:burlywood;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+h6{
+	color:burlywood;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size:2vw;
+	margin-left: 10vw;
+}
+
+button{
+	font-size:2vw
 }
 
 
@@ -108,4 +124,6 @@ li{
 	white-space: nowrap;
 	overflow:hidden;
 }
+
+
 
