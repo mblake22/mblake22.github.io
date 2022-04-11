@@ -4,9 +4,6 @@ body{
 }
 p{
 	color:steelblue;
-	border: 2px solid burlywood;
-	border-radius: 5px;
-	padding: 3px;
 	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
 h2{
@@ -65,7 +62,14 @@ button{
 input{
 	font-size:2vw;
 }
-
+option{
+	color:black;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+select{
+	color:black;
+	font-size:2vw;
+}
 
 
 
@@ -128,6 +132,10 @@ input{
 	white-space: nowrap;
 	overflow:hidden;
 }
+.quiz{
+	display: block;
+}
+
 
 
 

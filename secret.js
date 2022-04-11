@@ -3,12 +3,15 @@ function secret() {
 	
 
 if (document.getElementById("password").value == "12345") {
-	document.getElementById("pass").innerHTML = "Access Granted"
+	document.getElementById("pass").innerHTML = "Access Granted";
+	document.getElementById("pass").style.color= "green";
+	window.location = "index.html";
 	}
 	
 
-if (document.getElementById("password").value != "12345") {
-	document.getElementById("pass").innerHTML = "Access Denied"
+else{
+	document.getElementById("pass").innerHTML = "Access Denied";
+	document.getElementById("pass").style.color= "red";
 	}
 }
 
