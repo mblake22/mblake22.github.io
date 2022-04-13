@@ -13,6 +13,9 @@ var score = document.getElementById("score")
 var result = 0;
 
 function calculate() {
+	
+	result = 0;
+	
 	if (q1.value == "Bethesda"){
 		result = result + 1;
 	}
@@ -42,6 +45,14 @@ function calculate() {
 	}
 	if (q10.value == "True"){
 		result = result + 1;
+	}
+	
+	if (result >= 6){
+		score.style.color = "green";
+	}
+	
+	if (result < 6){
+		score.style.color = "red";
 	}
 	
 	score.innerHTML = result;
