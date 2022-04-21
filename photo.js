@@ -18,7 +18,7 @@ function changeSD(){
 }
 
 function changeWV(){
-	image.src = "Images/WV 1.JPG";
+	image.src = "Images/WV 1.jpeg";
 }
 
 function changeUT(){

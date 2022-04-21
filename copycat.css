@@ -1,0 +1,16 @@
+.top{
+	display:inline-block;
+	color: white;
+	background-color: #001489;
+	text-align: center;
+	width: 14.3vw;
+	
+	
+}
+
+#bar{
+	background-color: #001489;
+	padding-right: 5vw;
+	padding-left: 5vw;
+}
+
