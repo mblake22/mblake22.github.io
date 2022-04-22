@@ -3,8 +3,7 @@
 	color: white;
 	background-color: #001489;
 	text-align: center;
-	width: 14.3vw;
-	
+	width: 10vw;
 	
 }
 
@@ -14,3 +13,50 @@
 	padding-left: 5vw;
 }
 
+#right {
+	padding-right: 5vw;
+}
+
+#left{
+	padding-left: 5vw;
+}
+
+#logo {
+	padding-top: 2vw;
+	padding-left: 5vw;
+}
+
+.mid {
+	display:inline-block
+}
+
+#DH{
+	background-color: #001489;
+	text-align:right;
+	color: white;
+	padding: .5vw;
+	margin-left:50vw;
+	max-width:10vw;
+}
+
+#OS{
+	background-color: #001489;
+	text-align:right;
+	color: white;
+	padding: .5vw;
+	max-width:10vw;
+	
+}
+
+.buttons{
+	display:inline-block;
+	object-fit: contain;
+}
+
+#left2{
+	padding-left:5vw
+}
+
+#right2{
+	padding-right:5vw
+}
