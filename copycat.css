@@ -11,6 +11,8 @@
 	background-color: #001489;
 	padding-right: 5vw;
 	padding-left: 5vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
 }
 
 #right {
@@ -48,15 +50,43 @@
 	
 }
 
+#translate{
+	text-align:right;
+	margin-left:72vw;
+	font-size:.7vw;
+}
+
+#UO{
+	text-align:right;
+	margin-left:1vw;
+	font-size:.7vw;
+}
+
 .buttons{
 	display:inline-block;
 	object-fit: contain;
+	padding-right: 1vw
 }
 
+.buttons2{
+	display:inline-block;
+	margin:1.7vw;
+	color:black;
+	max-width:10vw;
+}
 #left2{
-	padding-left:5vw
+	padding-left:20vw
 }
 
 #right2{
 	padding-right:5vw
+}
+
+#left3{
+	padding-left:18vw
+}
+
+#bar3{
+	background-color:whitesmoke;
+	padding:1vw;
 }
