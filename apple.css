@@ -4,7 +4,7 @@
 }
 
 #left{
-	margin-left:23vw
+	margin-left:24vw
 }
 
 .toprow{
@@ -22,7 +22,7 @@
 	color:#464648;
 	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 	text-align: center;
-	vertical-align: baseline;
+	
 	
 	
 }
@@ -30,15 +30,15 @@
 	background-color: #fbfbfd;
 }
 #left2{
-	margin-left: 18vw
+	margin-left: 13vw
 }
 
 #left3{
-	margin-left: 18vw
+	margin-left: 13vw
 }
 
 #left4{
-	margin-left: 18vw
+	margin-left: 13vw
 }
 
 .new{
@@ -103,5 +103,5 @@
 #phone{
 	display:inline;
 	text-align:center;
-	margin-left: 33vw;
+	margin-left: 34vw;
 }
