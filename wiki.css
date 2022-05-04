@@ -1,14 +1,114 @@
+body{
+	background-color: #f8f9fa;
+}
+
 #logo{
 	margin-left: 1vw;
 }
 
+.topbar1{
+	display:inline-block;
+	margin: .2vw;
+	vertical-align: top
+	
+}
+
 .left{
 	display:block;
-	font-size: .7vw;
-	margin-left: 2vw;
+	font-size: .6vw;
+	margin-left: 1vw;
 	
+}
+
+#left1{
+	margin-left: 77vw;
+}
+
+#left2{
+	margin-left:7vw;
+	margin-top: -4vw;
+
+}
+
+#left3{
+	margin-left: 74vw;
+	margin-top: -4vw;
+}
+
+#a{
+	margin-top: -4vw;
+}
+
+#b{
+	margin-top: -4vw;
+}
+
+#c{
+	margin-top: -4vw;
+}
+
+#d{
+	margin-top: -4vw;
 }
 
 #top1{
 	margin-top:1vw;
 }
+
+#header{
+	text-decoration: underline
+}
+#header2{
+	text-decoration: underline
+}
+#header3{
+	text-decoration: underline
+}
+#header4{
+	text-decoration: underline
+}
+#header5{
+	text-decoration: underline
+}
+
+#leftbar{
+	background-color: #f8f9fa;
+}
+
+#body{
+	background-color:white;
+	padding: 1vw;
+	margin-left: 7vw;
+	margin-top: -36vw;
+	padding-left: 1vw;
+	border-style: solid;
+	border-color:lightblue;
+	border-width: 1px;
+	
+}
+
+#cords{
+	margin-left:74vw;
+	font-size: .5vw
+}
+
+#table1{
+	background-color: #f8f9fa;
+	margin-right: 80vw;
+	border-style: solid;
+	border-color:black;
+	border-width: 1px;
+}
+
+.table1{
+	display:block;
+}
+
+#tabletitle1{
+	margin-left: 1.5vw;
+}
+
+#trans{
+	margin-left: vw;
+}
+
