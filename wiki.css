@@ -21,17 +21,17 @@ body{
 }
 
 #left1{
-	margin-left: 77vw;
+	margin-left: 75vw;
 }
 
 #left2{
-	margin-left:7vw;
+	margin-left:8vw;
 	margin-top: -4vw;
 
 }
 
 #left3{
-	margin-left: 74vw;
+	margin-left: 72vw;
 	margin-top: -4vw;
 }
 
@@ -88,7 +88,7 @@ body{
 }
 
 #cords{
-	margin-left:74vw;
+	margin-left:72vw;
 	font-size: .5vw
 }
 
@@ -108,7 +108,35 @@ body{
 	margin-left: 1.5vw;
 }
 
-#trans{
-	margin-left: vw;
+.geo{
+	display: inline-block;
 }
 
+.references{
+	
+}
+
+
+#politics{
+	background-color: #ccccff
+}
+
+.bottom{
+	background-color: #ccccff;
+	text-align: center;
+	padding: .2vw;
+	border-style: solid;
+	border-width: thin
+}
+
+#bottom{
+	background-color: #f8f9fa;
+	padding: .2vw;
+	border-style: solid;
+	border-width: thin
+}
+
+.bottom2{
+	font-size: .5vw;
+	margin-left: 9vw
+}
