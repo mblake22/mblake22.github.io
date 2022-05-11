@@ -271,6 +271,10 @@ body{
 
 a{
 	text-decoration: none;
+	color:rgba(0,0,238,1.00);
 }
 
+#fake{
+	color:black;
+}
 
