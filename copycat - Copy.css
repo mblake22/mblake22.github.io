@@ -1,0 +1,98 @@
+body{
+	
+}
+
+.top{
+	display:block;
+	color: white;
+	background-color: #001489;
+	margin:2vw;
+	margin-top: 5vw;
+	
+}
+
+#bar{
+	background-color: #001489;
+	padding-right: 1vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	margin-right: 90vw;
+	height: 45vw
+}
+
+#right {
+	padding-right: 1vw;
+}
+
+
+#logo {
+	margin-left: 11vw;
+}
+
+#bar2{
+	margin-top: -47vw;
+}
+
+.mid {
+	display:inline-block
+}
+
+#DH{
+	background-color: #001489;
+	text-align:right;
+	color: white;
+	padding: .5vw;
+	margin-left:50vw;
+	max-width:10vw;
+}
+
+#OS{
+	background-color: #001489;
+	text-align:right;
+	color: white;
+	padding: .5vw;
+	max-width:10vw;
+	
+}
+
+#translate{
+	text-align:right;
+	margin-left:77vw;
+	font-size:.7vw;
+}
+
+#UO{
+	text-align:right;
+	margin-left:1vw;
+	font-size:.7vw;
+}
+
+.buttons{
+	display:inline-block;
+	object-fit: contain;
+	padding-right: 1vw
+}
+
+.buttons2{
+	display:inline-block;
+	margin:1.7vw;
+	color:black;
+	max-width:10vw;
+}
+#left2{
+	padding-left:10vw
+}
+
+#right2{
+	padding-right:5vw
+}
+
+#left3{
+	padding-left: 8vw
+}
+
+#bar3{
+	background-color:whitesmoke;
+	padding:1vw;
+	margin-left: 10vw
+}
