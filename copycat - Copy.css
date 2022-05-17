@@ -1,13 +1,12 @@
 body{
-	
 }
 
 .top{
 	display:block;
 	color: white;
 	background-color: #001489;
-	margin:2vw;
-	margin-top: 5vw;
+	margin:1vw;
+	margin-top: 6vw;
 	
 }
 
@@ -17,7 +16,12 @@ body{
 	padding-top: 1vw;
 	padding-bottom: 1vw;
 	margin-right: 90vw;
-	height: 45vw
+	height: 49.5vw;
+		border-style: solid;
+	border-width: .2vw;
+	border-color: rgba(255,212,0,1.00);
+	border-radius: 20px;
+	
 }
 
 #right {
@@ -30,7 +34,7 @@ body{
 }
 
 #bar2{
-	margin-top: -47vw;
+	margin-top: -51vw;
 }
 
 .mid {
@@ -44,6 +48,9 @@ body{
 	padding: .5vw;
 	margin-left:50vw;
 	max-width:10vw;
+	border-width: .2vw;
+	border-color: rgba(255,212,0,1.00);
+	border-radius: 20px;
 }
 
 #OS{
@@ -52,6 +59,9 @@ body{
 	color: white;
 	padding: .5vw;
 	max-width:10vw;
+	border-width: .5vw;
+	border-color: rgba(255,212,0,1.00);
+	border-radius: 20px;
 	
 }
 
@@ -70,13 +80,29 @@ body{
 .buttons{
 	display:inline-block;
 	object-fit: contain;
-	padding-right: 1vw
+	padding-right: 1vw;
+	color: #001489;
 }
 
 .buttons2{
 	display:inline-block;
-	margin:1.7vw;
-	color:black;
+	margin-right:2.3vw;
+	color:#001489;
+	max-width:10vw;
+}
+.buttons3{
+	display:inline-block;
+	margin-right:4vw;
+	margin-left: -1vw;
+	color:#001489;
+	max-width:10vw;
+}
+
+.buttons4{
+	display:inline-block;
+	margin-right:4.5vw;
+	margin-left: 2vw;
+	color:#001489;
 	max-width:10vw;
 }
 #left2{
@@ -84,15 +110,37 @@ body{
 }
 
 #right2{
-	padding-right:5vw
+	padding-right:9vw
 }
 
 #left3{
-	padding-left: 8vw
+	padding-left: 10.5vw
 }
 
 #bar3{
 	background-color:whitesmoke;
 	padding:1vw;
-	margin-left: 10vw
+	margin-left: 10vw;
+	border-style: solid;
+	border-width: .1vw;
+	border-color: rgba(255,212,0,1.00);
+	border-radius: 20px;
+	
+}
+
+#img{
+	margin-left: 31vw;
+	margin-top: .5vw;
+	border-style: solid;
+	border-width: .2vw;
+	border-color: rgba(255,212,0,1.00);
+	border-radius: 50px;
+}
+
+h2{
+	margin-left: 43vw;
+	margin-top: .5vw;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 2vw;
+	color:#001489;
 }
