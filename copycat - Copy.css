@@ -16,6 +16,7 @@ body{
 	padding-top: 1vw;
 	padding-bottom: 1vw;
 	margin-right: 90vw;
+	margin-top: -.91vw;
 	height: 49.5vw;
 		border-style: solid;
 	border-width: .2vw;
@@ -34,7 +35,7 @@ body{
 }
 
 #bar2{
-	margin-top: -51vw;
+	margin-top: -50vw;
 }
 
 .mid {
@@ -128,19 +129,38 @@ body{
 	
 }
 
-#img{
-	margin-left: 31vw;
-	margin-top: .5vw;
+.img{
+	margin-top: 3vw;
+	margin-left: .5vw;
+	margin-right: .5vw;
 	border-style: solid;
 	border-width: .2vw;
 	border-color: rgba(255,212,0,1.00);
 	border-radius: 50px;
+	display: inline-block;
+}
+#uno{
+	margin-left: 12vw;
+	margin-bottom: 2.5vw;
+	height: 460px
 }
 
+#dos{
+	height: 600px;
+	width: 800px
+}
+
+#tres{
+	margin-bottom: 2.5vw;
+}
 h2{
 	margin-left: 43vw;
 	margin-top: .5vw;
 	font-family: Brush Script MT, Brush Script Std, cursive;
 	font-size: 2vw;
 	color:#001489;
+}
+
+a{
+	text-decoration: none;
 }
