@@ -1,0 +1,30 @@
+body{
+	background-color: darkolivegreen
+	
+}
+#links{
+	background-color:black
+}
+#title{
+	background-color:floralwhite;
+	text-align: center;
+	font-size: 2vw;
+	margin-left: -.3vw;
+	margin-right: -.3vw;
+}
+
+#intro{
+	color:floralwhite;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	text-align: center;
+	font-size: .8vw
+}
+
+#huey1{
+	margin-left: 23vw;
+	border-style: solid;
+	border-color: floralwhite;
+	border-width: .3vw
+}
+
