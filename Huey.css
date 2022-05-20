@@ -3,12 +3,25 @@ body{
 	
 }
 #links{
-	background-color:black
+	background-color:black;
+	color: floralwhite;
+	text-align: center;
+	margin-left: -.3vw;
+	margin-right: -.3vw;
+	margin-top: -.3vw;
+	font-size: .8vw;
+	padding: .3vw;
+}
+.links{
+	margin:7vw;
+	color: floralwhite;
+	text-decoration: none;
 }
 #title{
 	background-color:floralwhite;
 	text-align: center;
 	font-size: 2vw;
+	margin-top: -2.7vw;
 	margin-left: -.3vw;
 	margin-right: -.3vw;
 }
