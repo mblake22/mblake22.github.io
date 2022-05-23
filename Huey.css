@@ -41,3 +41,17 @@ body{
 	border-width: .3vw
 }
 
+#body{
+	color:floralwhite;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	text-align: center;
+	font-size: .8vw
+}
+#huey2{
+	margin-left: 25vw;
+	border-style: solid;
+	border-color: floralwhite;
+	border-width: .3vw
+}
+
