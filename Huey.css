@@ -13,7 +13,7 @@ body{
 	padding: .3vw;
 }
 .links{
-	margin:7vw;
+	margin:6vw;
 	color: floralwhite;
 	text-decoration: none;
 }
@@ -53,5 +53,36 @@ body{
 	border-style: solid;
 	border-color: floralwhite;
 	border-width: .3vw
+}
+
+li{
+	color:floralwhite;
+	margin: 2vw;
+	font-size: .8vw
+}
+
+ul{
+	border-style: solid;
+	border-color: floralwhite;
+	border-width: .3vw;
+	margin-left: 5vw;
+	margin-right: 65vw;
+	
+}
+
+#img2{
+	margin-left: 35vw;
+	margin-right: 1vw;
+	margin-top:-50vw;
+	border-style: solid;
+	border-color: floralwhite;
+	border-width: .3vw
+}
+
+#img3{
+	margin-top:-100vw;
+	border-style: solid;
+	border-color: floralwhite;
+	border-width: .3vw;
 }
 
