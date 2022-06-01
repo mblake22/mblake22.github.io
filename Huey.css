@@ -31,7 +31,7 @@ body{
 	margin-left: 5vw;
 	margin-right: 5vw;
 	text-align: center;
-	font-size: .8vw
+	font-size: .9vw
 }
 
 #huey1{
@@ -46,7 +46,7 @@ body{
 	margin-left: 5vw;
 	margin-right: 5vw;
 	text-align: center;
-	font-size: .8vw
+	font-size: .9vw
 }
 #huey2{
 	margin-left: 25vw;
@@ -85,4 +85,47 @@ ul{
 	border-color: floralwhite;
 	border-width: .3vw;
 }
+
+.huey1{
+	margin-left: 2vw;
+	margin-top: 5vw;
+	border-style: solid;
+	border-color: floralwhite;
+	border-width: .3vw
+}
+
+#img4{
+	margin-left: 17vw;
+}
+
+h2{
+	font-size: 2vw;
+}
+
+h5{
+	font-size: 1vw;
+}
+
+select{
+	font-size: 1vw;
+}
+
+button{
+	font-size: 1vw;
+}
+
+#score{
+	font-size: 1vw;
+}
+
+#score2{
+	font-size: 1vw;
+}
+
+
+
+
+
+
+
 
